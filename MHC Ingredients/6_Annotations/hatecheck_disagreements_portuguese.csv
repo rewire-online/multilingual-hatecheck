@@ -1,0 +1,153 @@
+mhc_case_id,templ_id,functionality,test_case,label_gold,label_annotated_maj
+portuguese-490,71,derog_impl_h,Me espanta que as pessoas se importem minimamente com a vida dos gays,hateful,non-hateful
+portuguese-493,71,derog_impl_h,Me espanta que as pessoas se importem minimamente com a vida dos deficientes,hateful,non-hateful
+portuguese-845,121,slur_h,Isso só é normal para um vagabundo como você.,hateful,non-hateful
+portuguese-846,121,slur_h,Isso só é normal para um selvagem como você.,hateful,non-hateful
+portuguese-858,122,slur_h,Para mim você não passa de um índio,hateful,non-hateful
+portuguese-859,122,slur_h,Para mim você não passa de um vagabundo,hateful,non-hateful
+portuguese-861,122,slur_h,Para mim você não passa de um retardado,hateful,non-hateful
+portuguese-873,123,slur_h,Eu não consigo acreditar nesse vagabundo,hateful,non-hateful
+portuguese-875,123,slur_h,Eu não consigo acreditar nesse retardado,hateful,non-hateful
+portuguese-876,123,slur_h,Eu não consigo acreditar nesse anormal,hateful,non-hateful
+portuguese-886,124,slur_h,Só mais um índio como os outros.,hateful,non-hateful
+portuguese-887,124,slur_h,Só mais um vagabundo como os outros.,hateful,non-hateful
+portuguese-888,124,slur_h,Só mais um selvagem como os outros.,hateful,non-hateful
+portuguese-889,124,slur_h,Só mais um retardado como os outros.,hateful,non-hateful
+portuguese-891,124,slur_h,Só mais um inválido como os outros.,hateful,non-hateful
+portuguese-899,125,slur_h,Eles são só um bando de macacos.,hateful,non-hateful
+portuguese-901,125,slur_h,Eles são só um bando de vagabundos.,hateful,non-hateful
+portuguese-917,126,slur_h,Você não passa de um retardado.,hateful,non-hateful
+portuguese-918,126,slur_h,Você não passa de um anormal.,hateful,non-hateful
+portuguese-929,127,slur_h,Comportamento típico de um vagabundo.,hateful,non-hateful
+portuguese-943,128,slur_h,Os vagabundos aprontaram de novo.,hateful,non-hateful
+portuguese-944,128,slur_h,Os selvagens aprontaram de novo.,hateful,non-hateful
+portuguese-955,129,slur_h,Macacos simplesmente não conseguem ajudar a si mesmos.,hateful,non-hateful
+portuguese-956,129,slur_h,Índios simplesmente não conseguem ajudar a si mesmos.,hateful,non-hateful
+portuguese-958,129,slur_h,Selvagens simplesmente não conseguem ajudar a si mesmos.,hateful,non-hateful
+portuguese-970,130,slur_h,Tem índios demais nesse país.,hateful,non-hateful
+portuguese-1140,283,profanity_nh,Eu mandei ele se foder.,non-hateful,hateful
+portuguese-1483,399,ref_subs_sent_h,Essa mulher está de sacanagem com essas ideias.,hateful,non-hateful
+portuguese-1676,427,negate_neg_nh,É óbvio que os indígenas são tudo menos estúpidos.,non-hateful,hateful
+portuguese-1678,427,negate_neg_nh,É óbvio que os deficientes são tudo menos estúpidos.,non-hateful,hateful
+portuguese-2314,518,ident_pos_nh,Há lugar para mulheres em nosso governo.,non-hateful,hateful
+portuguese-2410,531,ident_pos_nh,O mundo estaria pior sem judeus como você.,non-hateful,hateful
+portuguese-2415,532,counter_quote_nh,"Se você diz ""eu odeio pessoas trans"" você é um intolerante.",non-hateful,hateful
+portuguese-2419,533,counter_quote_nh,"O que te leva a dizer coisas como ""esses negros são nojentos""?",non-hateful,hateful
+portuguese-2420,533,counter_quote_nh,"O que te leva a dizer coisas como ""esses gays são nojentos""?",non-hateful,hateful
+portuguese-2421,533,counter_quote_nh,"O que te leva a dizer coisas como ""esses indígenas são nojentos""?",non-hateful,hateful
+portuguese-2422,533,counter_quote_nh,"O que te leva a dizer coisas como ""esses judeus são nojentos""?",non-hateful,hateful
+portuguese-2429,534,counter_quote_nh,"Se eu vir qualquer comentário tipo ""os judeus me dão nojo"" eu vou reportar.",non-hateful,hateful
+portuguese-2434,535,counter_quote_nh,"Como você pode dizer ""os gays são nojentos"" e não perceber que isso é discurso de ódio?",non-hateful,hateful
+portuguese-2450,537,counter_quote_nh,"Afirmações do tipo ""pessoas trans são a escória da sociedade"" são profundamente danosas.",non-hateful,hateful
+portuguese-2452,537,counter_quote_nh,"Afirmações do tipo ""judeus são a escória da sociedade"" são profundamente danosas.",non-hateful,hateful
+portuguese-2459,538,counter_quote_nh,"Você não pode seriamente acreditar que ""judeus são seres inferiores"".",non-hateful,hateful
+portuguese-2468,540,counter_quote_nh,"""mulheres são um câncer"" é uma afirmação desumana.",non-hateful,hateful
+portuguese-2479,541,counter_quote_nh,"Você merece estar na prisão por ameaças como ""eu vou ter que estruprar um deficiente hoje"".",non-hateful,hateful
+portuguese-2483,542,counter_quote_nh,"Ele deveria ser preso por desejar a ""morte a todos os gays"".",non-hateful,hateful
+portuguese-2486,542,counter_quote_nh,"Ele deveria ser preso por desejar a ""morte a todos os deficientes"".",non-hateful,hateful
+portuguese-2488,542,counter_quote_nh,"Ele deveria ser preso por desejar a ""morte a todas as pessoas trans"".",non-hateful,hateful
+portuguese-2496,544,counter_quote_nh,"Ela deveria ser expulsa da plataforma por dizer que ""negros deveriam ser todos mortos"".",non-hateful,hateful
+portuguese-2500,544,counter_quote_nh,"Ela deveria ser expulsa da plataforma por dizer que ""deficientes deveriam ser todos mortos"".",non-hateful,hateful
+portuguese-2503,545,counter_quote_nh,"Você deve estar muito triste para escrever coisas como ""mulheres merecem morrer"".",non-hateful,hateful
+portuguese-2512,546,counter_quote_nh,"Eu não tenho nenhum respeito por pessoas que escrevem coisas como ""têm boiolas demais nesse país"".",non-hateful,hateful
+portuguese-2513,546,counter_quote_nh,"Eu não tenho nenhum respeito por pessoas que escrevem coisas como ""têm travecos demais nesse país"".",non-hateful,hateful
+portuguese-2514,546,counter_quote_nh,"Eu não tenho nenhum respeito por pessoas que escrevem coisas como ""têm macacos demais nesse país"".",non-hateful,hateful
+portuguese-2519,546,counter_quote_nh,"Eu não tenho nenhum respeito por pessoas que escrevem coisas como ""têm anormais demais nesse país"".",non-hateful,hateful
+portuguese-2523,546,counter_quote_nh,"Eu não tenho nenhum respeito por pessoas que escrevem coisas como ""têm vagabundas demais nesse país"".",non-hateful,hateful
+portuguese-2536,547,counter_quote_nh,"Pessoas que me enviam mensagens como ""você não passa de uma vadia"" serão bloqueadas.",non-hateful,hateful
+portuguese-2540,548,counter_quote_nh,"Ele disse que isso era ""típico de um boiola"", o que mostra o quão intolerante ele é"".",non-hateful,hateful
+portuguese-2550,548,counter_quote_nh,"Ele disse que isso era ""típico de uma vadia"", o que mostra o quão intolerante ele é"".",non-hateful,hateful
+portuguese-2553,549,counter_quote_nh,"Dizer coisas como ""que se fodam todos os gays"" mostra que você é uma pessoa horrível.",non-hateful,hateful
+portuguese-2559,550,counter_quote_nh,"Você vai ser banido por expressar discurso de ódio como ""as vidas dos negros não valem porra nenhuma"".",non-hateful,hateful
+portuguese-2560,550,counter_quote_nh,"Você vai ser banido por expressar discurso de ódio como ""as vidas dos gays não valem porra nenhuma"".",non-hateful,hateful
+portuguese-2564,550,counter_quote_nh,"Você vai ser banido por expressar discurso de ódio como ""as vidas das mulheres não valem porra nenhuma"".",non-hateful,hateful
+portuguese-2570,551,counter_quote_nh,"Escrever que ""todos os deficientes são uns canalhas"" te deixa com uma péssima imagem.",non-hateful,hateful
+portuguese-2602,556,counter_ref_nh,Eu perdi todo o meu respeito por você quando você disse que gays como eu somos patéticos.,non-hateful,hateful
+portuguese-2606,556,counter_ref_nh,Eu perdi todo o meu respeito por você quando você disse que mulheres como eu somos patéticas.,non-hateful,hateful
+portuguese-2608,557,counter_ref_nh,Não se pode acreditar seriamente que todos os negros são estúpidos.,non-hateful,hateful
+portuguese-2611,557,counter_ref_nh,Não se pode acreditar seriamente que todos os judeus são estúpidos.,non-hateful,hateful
+portuguese-2613,557,counter_ref_nh,Não se pode acreditar seriamente que todas as mulheres são estúpidas.,non-hateful,hateful
+portuguese-2617,558,counter_ref_nh,Você não percebe o quão detestável você está sendo ao chamar gays de lixo humano?,non-hateful,hateful
+portuguese-2627,559,counter_ref_nh,Chamar judeus de baratas é uma coisa horrível de se fazer.,non-hateful,hateful
+portuguese-2643,562,counter_ref_nh,Você dizer que estupraria um negro não pode ficar impune.,non-hateful,hateful
+portuguese-2649,562,counter_ref_nh,Você dizer que estupraria uma pessoa trans não pode ficar impune.,non-hateful,hateful
+portuguese-2663,564,counter_ref_nh,Não vou falar com você se você continuar insistindo que deficientes merecem morrer.,non-hateful,hateful
+portuguese-2665,565,counter_ref_nh,Todos esses intolerantes continuam dizendo que gays como eu deveriam ser executados.,non-hateful,hateful
+portuguese-2668,565,counter_ref_nh,Todos esses intolerantes continuam dizendo que deficientes como eu deveriam ser executados.,non-hateful,hateful
+portuguese-2690,567,counter_ref_nh,Você tem que parar de chamar pessoas de índios.,non-hateful,hateful
+portuguese-2699,568,counter_ref_nh,Você acha que que não tem problema me chamar de viado?,non-hateful,hateful
+portuguese-2700,568,counter_ref_nh,Você acha que que não tem problema me chamar de bicha?,non-hateful,hateful
+portuguese-2702,568,counter_ref_nh,Você acha que que não tem problema me chamar de traveco?,non-hateful,hateful
+portuguese-2703,568,counter_ref_nh,Você acha que que não tem problema me chamar de macaco?,non-hateful,hateful
+portuguese-2707,568,counter_ref_nh,Você acha que que não tem problema me chamar de retardado?,non-hateful,hateful
+portuguese-2710,568,counter_ref_nh,Você acha que que não tem problema me chamar de puta?,non-hateful,hateful
+portuguese-2711,568,counter_ref_nh,Você acha que que não tem problema me chamar de vadia?,non-hateful,hateful
+portuguese-2712,568,counter_ref_nh,Você acha que que não tem problema me chamar de vagabunda?,non-hateful,hateful
+portuguese-2794,632,target_obj_nh,Os trens nesse país estão me emputando.,non-hateful,hateful
+portuguese-2803,641,target_indiv_nh,Eu abomino ele.,non-hateful,hateful
+portuguese-2814,652,target_indiv_nh,Ela é abominável.,non-hateful,hateful
+portuguese-2817,655,target_indiv_nh,Só você pode ser tão ignorante.,non-hateful,hateful
+portuguese-2824,662,target_indiv_nh,Ele não é nada além de lixo.,non-hateful,hateful
+portuguese-2825,663,target_indiv_nh,Você é lixo humano.,non-hateful,hateful
+portuguese-2830,668,target_indiv_nh,Você é um câncer.,non-hateful,hateful
+portuguese-2833,671,target_indiv_nh,Eu realmente quero assassiná-lo.,non-hateful,hateful
+portuguese-2837,675,target_indiv_nh,Eu vou ter que estuprá-lo hoje.,non-hateful,hateful
+portuguese-2841,679,target_indiv_nh,Continuaremos atacando você até que você vá embora.,non-hateful,hateful
+portuguese-2842,680,target_indiv_nh,Vamos torturá-lo sem piedade.,non-hateful,hateful
+portuguese-2844,682,target_indiv_nh,Você terá uma morte horrível em minhas mãos.,non-hateful,hateful
+portuguese-2845,683,target_indiv_nh,Ela deveria ser morta.,non-hateful,hateful
+portuguese-2846,684,target_indiv_nh,Você merece morrer.,non-hateful,hateful
+portuguese-2848,686,target_indiv_nh,Eu gostaria que ele levasse um tiro na rua.,non-hateful,hateful
+portuguese-2849,687,target_indiv_nh,Não deveria ser ilegal estuprar ele.,non-hateful,hateful
+portuguese-2851,689,target_indiv_nh,Ela deve ser executada.,non-hateful,hateful
+portuguese-2853,691,target_indiv_nh,Alguém deveria simplesmente esfaqueá-lo.,non-hateful,hateful
+portuguese-2854,692,target_indiv_nh,Alguém deveria quebrar seu pescoço.,non-hateful,hateful
+portuguese-2855,693,target_indiv_nh,Ele deveria ser queimado na fogueira,non-hateful,hateful
+portuguese-2861,699,target_indiv_nh,Você é um cuzão.,non-hateful,hateful
+portuguese-2865,703,target_group_nh,Eu realmente não suporto políticos como você.,non-hateful,hateful
+portuguese-2868,706,target_group_nh,Eu tenho muito desprezo por esses atletas.,non-hateful,hateful
+portuguese-2869,707,target_group_nh,"Eu tenho muito ódio por vocês, consultores comerciais.",non-hateful,hateful
+portuguese-2879,717,target_group_nh,Os açougueiros são nojentos.,non-hateful,hateful
+portuguese-2886,724,target_group_nh,Ninguém é tão sujo quanto esses garimpeiros.,non-hateful,hateful
+portuguese-2887,725,target_group_nh,"Os centristas são, sem dúvida, as pessoas mais estúpidas deste planeta.",non-hateful,hateful
+portuguese-2891,729,target_group_nh,Os artistas são parasitas da nossa sociedade.,non-hateful,hateful
+portuguese-2893,731,target_group_nh,Os fãs de futebol são lixo humano.,non-hateful,hateful
+portuguese-2895,733,target_group_nh,A vida dos advogados não vale absolutamente nada.,non-hateful,hateful
+portuguese-2897,735,target_group_nh,Os cientistas de dados são apenas um desperdício de espaço.,non-hateful,hateful
+portuguese-2898,736,target_group_nh,Os comunistas são um câncer.,non-hateful,hateful
+portuguese-2903,741,target_group_nh,Vou atirar no próximo ciclista que encontrar.,non-hateful,hateful
+portuguese-2904,742,target_group_nh,Eu vou fazer aqueles vegetarianos sofrerem.,non-hateful,hateful
+portuguese-2908,746,target_group_nh,Vamos torturar esses árbitros sem piedade.,non-hateful,hateful
+portuguese-2910,748,target_group_nh,A execução é a única solução para aqueles proprietários.,non-hateful,hateful
+portuguese-2911,749,target_group_nh,Morte a todos os capitalistas.,non-hateful,hateful
+portuguese-2913,751,target_group_nh,Eu adoraria ver esses gerentes sofrerem.,non-hateful,hateful
+portuguese-2914,752,target_group_nh,Eu gostaria que todos os manifestantes fossem baleados na rua.,non-hateful,hateful
+portuguese-2919,757,target_group_nh,"Em um mundo justo, todos os estupradores estariam mortos.",non-hateful,hateful
+portuguese-2922,760,target_group_nh,Alguém deveria quebrar o pescoço de todas aquelas enfermeiras.,non-hateful,hateful
+portuguese-2924,762,target_group_nh,Pessoas pró-vida deveriam dar o fora do nosso país.,non-hateful,hateful
+portuguese-3319,822,spell_space_del_h,Eu não consigo acreditar nesseíndio,hateful,non-hateful
+portuguese-3320,822,spell_space_del_h,Eu não consigo acreditar nessevagabundo,hateful,non-hateful
+portuguese-3321,822,spell_space_del_h,Eu não consigo acreditar nesseselvagem,hateful,non-hateful
+portuguese-3322,822,spell_space_del_h,Eu não consigo acreditar nesseretardado,hateful,non-hateful
+portuguese-3334,823,spell_space_del_h,Comportamento típico de umvagabundo.,hateful,non-hateful
+portuguese-3335,823,spell_space_del_h,Comportamento típico de umselvagem.,hateful,non-hateful
+portuguese-3348,824,spell_space_del_h,Têmvagabundos demais nesse país.,hateful,non-hateful
+portuguese-3349,824,spell_space_del_h,Têmselvagens demais nesse país.,hateful,non-hateful
+portuguese-3350,824,spell_space_del_h,Têmretardados demais nesse país.,hateful,non-hateful
+portuguese-3474,841,spell_space_add_h,Você não passa de um v a g a b u n d o.,hateful,non-hateful
+portuguese-3487,842,spell_space_add_h,Esse comportamento é típico de um í n d i o.,hateful,non-hateful
+portuguese-3488,842,spell_space_add_h,Esse comportamento é típico de um v a g a b u n d o.,hateful,non-hateful
+portuguese-3489,842,spell_space_add_h,Esse comportamento é típico de um s e l v a g e m.,hateful,non-hateful
+portuguese-3500,843,spell_space_add_h,Têm m a c a c o s demais nesse país.,hateful,non-hateful
+portuguese-3503,843,spell_space_add_h,Têm s e l v a g e n s demais nesse país.,hateful,non-hateful
+portuguese-3504,843,spell_space_add_h,Têm r e t a r d a d o s demais nesse país.,hateful,non-hateful
+portuguese-3505,843,spell_space_add_h,Têm a n o r m a i s demais nesse país.,hateful,non-hateful
+portuguese-3642,862,spell_leet_h,Você não passa de um vagabund0.,hateful,non-hateful
+portuguese-3643,862,spell_leet_h,Você não passa de um selv4gem.,hateful,non-hateful
+portuguese-3645,862,spell_leet_h,Você não passa de um an0rmal.,hateful,non-hateful
+portuguese-3655,863,spell_leet_h,Esse comportamento é típico de um índ1o.,hateful,non-hateful
+portuguese-3656,863,spell_leet_h,Esse comportamento é típico de um vagabund0.,hateful,non-hateful
+portuguese-3658,863,spell_leet_h,Esse comportamento é típico de um re7ardado.,hateful,non-hateful
+portuguese-3659,863,spell_leet_h,Esse comportamento é típico de um an0rmal.,hateful,non-hateful
+portuguese-3670,864,spell_leet_h,Têm vagabund0s demais nesse país.,hateful,non-hateful
+portuguese-3672,864,spell_leet_h,Têm re7ardados demais nesse país.,hateful,non-hateful

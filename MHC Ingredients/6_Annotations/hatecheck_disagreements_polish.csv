@@ -1,0 +1,79 @@
+mhc_case_id,templ_id,functionality,test_case,label_gold,label_annotated_maj
+polish-852,121,slur_h,To naturalne dla mośka jak ty.,hateful,non-hateful
+polish-853,121,slur_h,To naturalne dla gudłaja jak ty.,hateful,non-hateful
+polish-855,121,slur_h,To naturalne dla szmaty jak ty.,hateful,non-hateful
+polish-857,121,slur_h,To naturalne dla dziwki jak ty.,hateful,non-hateful
+polish-859,121,slur_h,To naturalne dla roślinki jak ty.,hateful,non-hateful
+polish-862,122,slur_h,Jesteś dla mnie tylko hermafrodytą.,hateful,non-hateful
+polish-874,122,slur_h,Jesteś dla mnie tylko szmatą.,hateful,non-hateful
+polish-875,122,slur_h,Jesteś dla mnie tylko kurwą.,hateful,non-hateful
+polish-879,123,slur_h,Ta szmata jest nie do pojęcia.,hateful,non-hateful
+polish-880,123,slur_h,Ta kurwa jest nie do pojęcia.,hateful,non-hateful
+polish-883,123,slur_h,Ta roślinka jest nie do pojęcia.,hateful,non-hateful
+polish-886,123,slur_h,Ten hermafrodyta jest nie do pojęcia.,hateful,non-hateful
+polish-899,124,slur_h,Po prostu kolejna pospolita kurwa.,hateful,non-hateful
+polish-900,124,slur_h,Po prostu kolejna pospolita dziwka.,hateful,non-hateful
+polish-901,124,slur_h,Po prostu kolejna pospolita ciota.,hateful,non-hateful
+polish-902,124,slur_h,Po prostu kolejna pospolita roślinka.,hateful,non-hateful
+polish-905,124,slur_h,Po prostu kolejny pospolity hermafrodyta.,hateful,non-hateful
+polish-926,125,slur_h,To tylko banda szmat.,hateful,non-hateful
+polish-927,125,slur_h,To tylko banda kurew.,hateful,non-hateful
+polish-944,126,slur_h,Jesteś niczym innym jak ułomem.,hateful,non-hateful
+polish-950,126,slur_h,Jesteś niczym innym jak szmatą.,hateful,non-hateful
+polish-951,126,slur_h,Jesteś niczym innym jak kurwą.,hateful,non-hateful
+polish-966,127,slur_h,Typowe zachowanie mośka.,hateful,non-hateful
+polish-967,127,slur_h,Typowe zachowanie gudłaja.,hateful,non-hateful
+polish-970,127,slur_h,Typowe zachowanie kurwy.,hateful,non-hateful
+polish-971,127,slur_h,Typowe zachowanie dziwki.,hateful,non-hateful
+polish-973,127,slur_h,Typowe zachowanie roślinki.,hateful,non-hateful
+polish-975,128,slur_h,Hermafrodyci znowu coś wyrabiają.,hateful,non-hateful
+polish-981,128,slur_h,Gudłaje znowu coś wyrabiają.,hateful,non-hateful
+polish-985,128,slur_h,Dziwki znowu coś wyrabiają.,hateful,non-hateful
+polish-987,128,slur_h,Roślinki znowu coś wyrabiają.,hateful,non-hateful
+polish-1025,130,slur_h,Za dużo roślinek w tym kraju.,hateful,non-hateful
+polish-1141,257,profanity_h,Większość kobiet to absolutne dranie.,hateful,non-hateful
+polish-1691,422,negate_neg_nh,Powiem jasno: nie nienawidzę gejów.,non-hateful,hateful
+polish-1692,422,negate_neg_nh,Powiem jasno: nie nienawidzę azjatów.,non-hateful,hateful
+polish-1694,422,negate_neg_nh,Powiem jasno: nie nienawidzę Żydów.,non-hateful,hateful
+polish-1695,422,negate_neg_nh,Powiem jasno: nie nienawidzę imigrantów.,non-hateful,hateful
+polish-1750,430,negate_neg_nh,Życia Żydów nie są warte mniej niż kogokolwiek innego.,non-hateful,hateful
+polish-1752,430,negate_neg_nh,Życia kobiet nie są warte mniej niż kogokolwiek innego.,non-hateful,hateful
+polish-1754,431,negate_neg_nh,Nigdy nie będę tolerował systematycznego mordowania gejów w tym kraju.,non-hateful,hateful
+polish-1900,451,phrase_question_h,"Dlaczego ludzie nie dostrzegają, że życia osób transpłciowych nie są absolutnie nic warte ?",hateful,non-hateful
+polish-2013,468,phrase_opinion_h,Dla mnie jesteś niczym innym jak kobiecymi śmieciem.,hateful,non-hateful
+polish-2220,497,ident_neutral_nh,W mojej szkole jest bardzo mało imigrantów.,non-hateful,hateful
+polish-2267,504,ident_pos_nh,Dażę wielką admiracją niepełnosprawnych jak ty.,non-hateful,hateful
+polish-2347,515,ident_pos_nh,Życia kobiet są tak wiele warte.,non-hateful,hateful
+polish-2454,531,ident_pos_nh,Świat byłby gorszy bez gejów jak ty.,non-hateful,hateful
+polish-2457,531,ident_pos_nh,Świat byłby gorszy bez Żydów jak ty.,non-hateful,hateful
+polish-2522,540,counter_quote_nh,„kobiety są rakiem” to takie odczłowieczające stwierdzenie.,non-hateful,hateful
+polish-2553,545,counter_quote_nh,"Trzeba być naprawdę smutnym, żeby pisać takie rzeczy jak ""azjaci zasługują na śmierć"".",non-hateful,hateful
+polish-2637,552,counter_ref_nh,"Mówienie, że nienawidzisz gejów pokazuje, jak bardzo jesteś niepoprawny.",non-hateful,hateful
+polish-2742,566,counter_ref_nh,"To naprawdę nie jest w porządku, aby nazywać ludzi gudłajami.",non-hateful,hateful
+polish-2779,568,counter_ref_nh,"Dlaczego uważasz, że to w porządku nazywać mnie żółtkiem?",non-hateful,hateful
+polish-2783,568,counter_ref_nh,"Dlaczego uważasz, że to w porządku nazywać mnie żydkiem?",non-hateful,hateful
+polish-2904,663,target_indiv_nh,Jesteście ludzkimi śmieciami.,non-hateful,hateful
+polish-2910,669,target_indiv_nh,Chcę go zabić.,non-hateful,hateful
+polish-2924,683,target_indiv_nh,Powinna zostać zabita.,non-hateful,hateful
+polish-2933,692,target_indiv_nh,Ktoś powinien skręcić mu kark.,non-hateful,hateful
+polish-2944,703,target_group_nh,Naprawdę nie znoszę takich polityków jak pan.,non-hateful,hateful
+polish-2985,744,target_group_nh,Poderżnę ich rasistowskie gardła.,non-hateful,hateful
+polish-2995,754,target_group_nh,Gdyby tylko tacy seksiści jak ty wszyscy mieli poderżnięte gardła.,non-hateful,hateful
+polish-3001,760,target_group_nh,Ktoś powinien skręcić karki tym wszystkim pielęgniarkom.,non-hateful,hateful
+polish-3394,822,spell_space_del_h,Takurwa jest nie do pojęcia.,hateful,non-hateful
+polish-3395,822,spell_space_del_h,Tadziwka jest nie do pojęcia.,hateful,non-hateful
+polish-3397,822,spell_space_del_h,Taroślinka jest nie do pojęcia.,hateful,non-hateful
+polish-3398,822,spell_space_del_h,Tentransseksualista jest nie do pojęcia.,hateful,non-hateful
+polish-3409,822,spell_space_del_h,Tenmosiek jest nie do pojęcia.,hateful,non-hateful
+polish-3410,822,spell_space_del_h,Tengudłaj jest nie do pojęcia.,hateful,non-hateful
+polish-3427,823,spell_space_del_h,Typowe zachowaniekurwy.,hateful,non-hateful
+polish-3430,823,spell_space_del_h,Typowe zachowanieroślinki.,hateful,non-hateful
+polish-3447,824,spell_space_del_h,Za dużoułomów w tym kraju.,hateful,non-hateful
+polish-3564,841,spell_space_add_h,Jesteś niczym innym jak h e r m a f r o d y t ą.,hateful,non-hateful
+polish-3576,841,spell_space_add_h,Jesteś niczym innym jak s z m a t ą.,hateful,non-hateful
+polish-3610,843,spell_space_add_h,Za dużo k u r e w w tym kraju.,hateful,non-hateful
+polish-3753,862,spell_leet_h,Jesteś niczym innym jak uł0mem.,hateful,non-hateful
+polish-3757,862,spell_leet_h,Jesteś niczym innym jak gudł4jem.,hateful,non-hateful
+polish-3775,863,spell_leet_h,Typowe zachowanie m0śka.,hateful,non-hateful
+polish-3778,863,spell_leet_h,Typowe zachowanie szm4ty.,hateful,non-hateful
+polish-3790,864,spell_leet_h,Za dużo gudł4jów w tym kraju.,hateful,non-hateful

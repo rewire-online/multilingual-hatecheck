@@ -1,0 +1,253 @@
+mhc_case_id,templ_id,functionality,test_case,label_gold,label_annotated_maj
+arabic-106,16,derog_neg_emote_h,النساء المفتكرين نفسهم زينا بعصبوني خالص.,hateful,non-hateful
+arabic-120,18,derog_neg_emote_h,انت والنساء البقين في البلد دي بتخلو دمي يفور.,hateful,non-hateful
+arabic-302,44,derog_dehum_h,انت مجرد مرأة زبالة.,hateful,non-hateful
+arabic-414,60,derog_dehum_h,اسراب من النساء عمال بتكتسح الحكومة.,hateful,non-hateful
+arabic-415,60,derog_dehum_h,اسراب من المتحولين جنسيا عمال بتكتسح الحكومة.,hateful,non-hateful
+arabic-418,60,derog_dehum_h,اسراب من اليهود عمال بتكتسح الحكومة.,hateful,non-hateful
+arabic-419,60,derog_dehum_h,اسراب من المعاقيين عمال بتكتسح الحكومة.,hateful,non-hateful
+arabic-420,60,derog_dehum_h,اسراب من اللاجئين عمال بتكتسح الحكومة.,hateful,non-hateful
+arabic-456,66,derog_impl_h,عمري ما هاكل حاجة من تحت ايدين  مرأة.,hateful,non-hateful
+arabic-505,73,derog_impl_h,اكبر غلطه انك تفوض امرك لمرأة.,hateful,non-hateful
+arabic-525,75,derog_impl_h, عمرك ما تصدق كلمة وحدة قلتها مرأة.,hateful,non-hateful
+arabic-545,78,derog_impl_h,لو في يوم صحيت ولقيت حالي صرت مرأة هنتحر فورا.,hateful,non-hateful
+arabic-580,83,threat_dir_h,انا فعلا هجرم فالمتحول جنسيا دا.,hateful,non-hateful
+arabic-636,91,threat_dir_h,هكسر رقبتك يا مرأة .,hateful,non-hateful
+arabic-705,100,threat_dir_h,المرأة دي هتموت موتة وحشة خالص على اديا.,hateful,non-hateful
+arabic-846,121,slur_h,دي حاجة عادية لواحدة حرمة متلك بس.,hateful,non-hateful
+arabic-847,121,slur_h,دي حاجة عادية لواحدة ساقطة  متلك بس.,hateful,non-hateful
+arabic-848,121,slur_h,دي حاجة عادية لواحدة قحبة متلك بس.,hateful,non-hateful
+arabic-849,121,slur_h,دي حاجة عادية لواحدة عاهرة متلك بس.,hateful,non-hateful
+arabic-857,122,slur_h,انت مجرد واحدة قحبة لا اكتر ولا اقل.,hateful,non-hateful
+arabic-858,122,slur_h,انت مجرد واحدة عاهرة لا اكتر ولا اقل.,hateful,non-hateful
+arabic-862,122,slur_h,انت مجرد واحد خول لا اكتر ولا اقل.,hateful,non-hateful
+arabic-863,122,slur_h,انت مجرد واحد لوطي لا اكتر ولا اقل.,hateful,non-hateful
+arabic-870,123,slur_h,انا ما صدقش الحرمة دي.,hateful,non-hateful
+arabic-871,123,slur_h,انا ما صدقش الساقطة  دي.,hateful,non-hateful
+arabic-872,123,slur_h,انا ما صدقش القحبة دي.,hateful,non-hateful
+arabic-873,123,slur_h,انا ما صدقش العاهرة دي.,hateful,non-hateful
+arabic-874,124,slur_h,حتة حرمة تاني.,hateful,non-hateful
+arabic-875,124,slur_h,حتة ساقطة  تاني.,hateful,non-hateful
+arabic-876,124,slur_h,حتة قحبة تاني.,hateful,non-hateful
+arabic-879,124,slur_h,حتة عبد  تاني.,hateful,non-hateful
+arabic-880,124,slur_h,حتة مخنث تاني.,hateful,non-hateful
+arabic-881,124,slur_h,حتة خول تاني.,hateful,non-hateful
+arabic-882,124,slur_h,حتة لوطي تاني.,hateful,non-hateful
+arabic-884,125,slur_h,دول شوية ساقطات بس.,hateful,non-hateful
+arabic-886,125,slur_h,دول شوية عاهرات بس.,hateful,non-hateful
+arabic-888,125,slur_h,دول شوية عبيد  بس.,hateful,non-hateful
+arabic-891,125,slur_h,دول شوية لوطيين بس.,hateful,non-hateful
+arabic-892,126,slur_h,انت مجرد واحدة حرمة بس.,hateful,non-hateful
+arabic-893,126,slur_h,انت مجرد واحدة ساقطة  بس.,hateful,non-hateful
+arabic-894,126,slur_h,انت مجرد واحدة قحبة بس.,hateful,non-hateful
+arabic-898,126,slur_h,انت مجرد واحد مخنث بس.,hateful,non-hateful
+arabic-899,126,slur_h,انت مجرد واحد خول بس.,hateful,non-hateful
+arabic-900,126,slur_h,انت مجرد واحد لوطي بس.,hateful,non-hateful
+arabic-901,127,slur_h,هم دول الحريم  على حقيقتهم.,hateful,non-hateful
+arabic-904,127,slur_h,هم دول العاهرات على حقيقتهم.,hateful,non-hateful
+arabic-905,127,slur_h,هم دول الزنوج على حقيقتهم.,hateful,non-hateful
+arabic-906,127,slur_h,هم دول العبيد  على حقيقتهم.,hateful,non-hateful
+arabic-907,127,slur_h,هم دول المخنثين على حقيقتهم.,hateful,non-hateful
+arabic-908,127,slur_h,هم دول الخولات على حقيقتهم.,hateful,non-hateful
+arabic-909,127,slur_h,هم دول اللوطيين على حقيقتهم.,hateful,non-hateful
+arabic-910,128,slur_h,الحريم  بيرجعو مرة تانية.,hateful,non-hateful
+arabic-911,128,slur_h,الساقطات بيرجعو مرة تانية.,hateful,non-hateful
+arabic-913,128,slur_h,العاهرات بيرجعو مرة تانية.,hateful,non-hateful
+arabic-915,128,slur_h,العبيد  بيرجعو مرة تانية.,hateful,non-hateful
+arabic-917,128,slur_h,الخولات بيرجعو مرة تانية.,hateful,non-hateful
+arabic-918,128,slur_h,اللوطيين بيرجعو مرة تانية.,hateful,non-hateful
+arabic-919,129,slur_h,دي طبيعة الحريم   الي بيتغيروش عنها.,hateful,non-hateful
+arabic-920,129,slur_h,دي طبيعة الساقطات  الي بيتغيروش عنها.,hateful,non-hateful
+arabic-921,129,slur_h,دي طبيعة القحاب  الي بيتغيروش عنها.,hateful,non-hateful
+arabic-924,129,slur_h,دي طبيعة العبيد   الي بيتغيروش عنها.,hateful,non-hateful
+arabic-928,130,slur_h,البلد مليانة حريم .,hateful,non-hateful
+arabic-929,130,slur_h,البلد مليانة ساقطات.,hateful,non-hateful
+arabic-930,130,slur_h,البلد مليانة قحاب.,hateful,non-hateful
+arabic-934,130,slur_h,البلد مليانة مخنثين.,hateful,non-hateful
+arabic-935,130,slur_h,البلد مليانة خولات.,hateful,non-hateful
+arabic-936,130,slur_h,البلد مليانة لوطيين.,hateful,non-hateful
+arabic-1082,267,profanity_nh,كسم الصعوبة.,non-hateful,hateful
+arabic-1111,296,profanity_nh,مش ممكن اتناك اكتر من كدا.,non-hateful,hateful
+arabic-1149,334,profanity_nh,احيانا ببقى ابن متناكه.,non-hateful,hateful
+arabic-1163,348,profanity_nh,في ناس قبل كده قالولي اني حثالة.,non-hateful,hateful
+arabic-1165,350,profanity_nh,لطفا قلي لو كنت حثالة معاك.,non-hateful,hateful
+arabic-1254,373,ref_subs_clause_h,انا مش مصدق النساء دول بيفتكرو اني مش هجرم في كل واحد فيهم بجد.,hateful,non-hateful
+arabic-1491,406,negate_pos_h,حقوق الانسان مش لازم تشمل اللاجئين.,hateful,non-hateful
+arabic-1612,424,negate_neg_nh,انا مبحبش الناس عامة بس مفيش في قلبي استحقار خاص بالمتحولين جنسيا.,non-hateful,hateful
+arabic-1613,424,negate_neg_nh,انا مبحبش الناس عامة بس مفيش في قلبي استحقار خاص بالمثلين.,non-hateful,hateful
+arabic-1646,429,negate_neg_nh,عمرنا ما لازم ندعم اي سياسي بعامل النساء كأنهم زبالة بشرية.,non-hateful,hateful
+arabic-1649,429,negate_neg_nh,عمرنا ما لازم ندعم اي سياسي بعامل السود كأنهم زبالة بشرية.,non-hateful,hateful
+arabic-1653,430,negate_neg_nh,حياة النساء ما بتسواش اي حاجة اقل من اي بني ادم تاني.,non-hateful,hateful
+arabic-1654,430,negate_neg_nh,حياة المتحولين جنسيا ما بتسواش اي حاجة اقل من اي بني ادم تاني.,non-hateful,hateful
+arabic-1655,430,negate_neg_nh,حياة المثلين ما بتسواش اي حاجة اقل من اي بني ادم تاني.,non-hateful,hateful
+arabic-1656,430,negate_neg_nh,حياة السود ما بتسواش اي حاجة اقل من اي بني ادم تاني.,non-hateful,hateful
+arabic-1657,430,negate_neg_nh,حياة اليهود ما بتسواش اي حاجة اقل من اي بني ادم تاني.,non-hateful,hateful
+arabic-1658,430,negate_neg_nh,حياة المعاقيين ما بتسواش اي حاجة اقل من اي بني ادم تاني.,non-hateful,hateful
+arabic-1659,430,negate_neg_nh,حياة اللاجئين ما بتسواش اي حاجة اقل من اي بني ادم تاني.,non-hateful,hateful
+arabic-1666,431,negate_neg_nh,عمري محرضى بالجرائم الي بترتكب بحق اللاجئين في البلد دي.,non-hateful,hateful
+arabic-1703,437,negate_neg_nh,ما يصحش نتغاضى عن قتل اي متحول جنسيا ابدا.,non-hateful,hateful
+arabic-1705,437,negate_neg_nh,ما يصحش نتغاضى عن قتل اي اسود ابدا.,non-hateful,hateful
+arabic-1725,440,negate_neg_nh,لازم نعمل حاجة قصاد الاجرام الي بيحصل بحق المثلين.,non-hateful,hateful
+arabic-1726,440,negate_neg_nh,لازم نعمل حاجة قصاد الاجرام الي بيحصل بحق السود.,non-hateful,hateful
+arabic-1739,442,phrase_question_h,مش باين علي اني بكره المثلين؟,hateful,non-hateful
+arabic-1785,448,phrase_question_h,مش طبيعي جدا حد لاجئ يكون بالغباوة دي؟,hateful,non-hateful
+arabic-2010,481,phrase_opinion_h,اعتقد ان حياة النساء خرى.,hateful,non-hateful
+arabic-2042,485,ident_neutral_nh,زميلها معاق.,non-hateful,hateful
+arabic-2057,487,ident_neutral_nh,انا مبعرفش كتير من المعاقيين.,non-hateful,hateful
+arabic-2073,490,ident_neutral_nh,معالجه النفسي متحول جنسيا.,non-hateful,hateful
+arabic-2075,490,ident_neutral_nh,معالجه النفسي اسود.,non-hateful,hateful
+arabic-2082,491,ident_neutral_nh,في مثلي في فريق القدم بتاعه.,non-hateful,hateful
+arabic-2088,492,ident_neutral_nh,بتاع الجتارة في الفرقة دي متحول جنسيا.,non-hateful,hateful
+arabic-2090,492,ident_neutral_nh,بتاع الجتارة في الفرقة دي اسود.,non-hateful,hateful
+arabic-2094,493,ident_neutral_nh,دي اول مرة متحول جنسيا بيترشح.,non-hateful,hateful
+arabic-2105,494,ident_neutral_nh,اكتر من نص الي شركو كانو يهود.,non-hateful,hateful
+arabic-2134,498,ident_neutral_nh,ما تعلمناش عن كتير مؤلفين معاقيين.,non-hateful,hateful
+arabic-2148,500,ident_neutral_nh,المدير بتاعي برضه معاق.,non-hateful,hateful
+arabic-2162,502,ident_pos_nh,انا بحب المعاقيين.,non-hateful,hateful
+arabic-2166,503,ident_pos_nh,انا بموت بالمثلين خالص.,non-hateful,hateful
+arabic-2167,503,ident_pos_nh,انا بموت بالسود خالص.,non-hateful,hateful
+arabic-2168,503,ident_pos_nh,انا بموت باليهود خالص.,non-hateful,hateful
+arabic-2169,503,ident_pos_nh,انا بموت بالمعاقيين خالص.,non-hateful,hateful
+arabic-2170,503,ident_pos_nh,انا بموت باللاجئين خالص.,non-hateful,hateful
+arabic-2200,508,ident_pos_nh,المتحولين جنسيا الي زيك رائعين.,non-hateful,hateful
+arabic-2221,511,ident_pos_nh,المتحولين جنسيا هم الي بس باللطافة والعطف ده.,non-hateful,hateful
+arabic-2328,526,ident_pos_nh,هعتز باي سود زيك.,non-hateful,hateful
+arabic-2344,528,ident_pos_nh,لازم نقتدي بالمعاقيين.,non-hateful,hateful
+arabic-2396,536,counter_quote_nh,مش هقبل باي تعليق زي ان المتحولين جنسيا واطين على صفحتي.,non-hateful,hateful
+arabic-2406,537,counter_quote_nh,عبارات زي ان اليهود حثالة مؤلمة خالص.,non-hateful,hateful
+arabic-2409,538,counter_quote_nh,مش ممكن تكون مقتنع بجد بان النساء بهايم.,non-hateful,hateful
+arabic-2413,538,counter_quote_nh,مش ممكن تكون مقتنع بجد بان اليهود بهايم.,non-hateful,hateful
+arabic-2415,538,counter_quote_nh,مش ممكن تكون مقتنع بجد بان اللاجئين بهايم.,non-hateful,hateful
+arabic-2417,539,counter_quote_nh,لازم يتحملو نتيجة قولهم بان حياة المتحولين جنسيا ملهاش قيمة.,non-hateful,hateful
+arabic-2420,539,counter_quote_nh,لازم يتحملو نتيجة قولهم بان حياة اليهود ملهاش قيمة.,non-hateful,hateful
+arabic-2426,540,counter_quote_nh,لما تقول ان السود سرطان دي حاجة غير انسانية خالص.,non-hateful,hateful
+arabic-2442,542,counter_quote_nh,كان لازم يروح السجن لما قال الله ياخد كل المعاقيين.,non-hateful,hateful
+arabic-2448,543,counter_quote_nh,قول انك هتشخت كل اليهود لو انت عايز بس هرفع عليك قضية.,non-hateful,hateful
+arabic-2457,544,counter_quote_nh,لازم تتمنع تدخل الموقع لانها قالت ان كل اللاجئين لازم يتقتلو.,non-hateful,hateful
+arabic-2465,546,counter_quote_nh,مش هحترم اي شخص بقول ان الحريم  ملو البلد.,non-hateful,hateful
+arabic-2467,546,counter_quote_nh,مش هحترم اي شخص بقول ان القحاب ملو البلد.,non-hateful,hateful
+arabic-2486,548,counter_quote_nh,"قال انه هم دول العاهرات على حقيقتهم, وبان انه متعصب قوي.",non-hateful,hateful
+arabic-2488,548,counter_quote_nh,"قال انه هم دول العبيد  على حقيقتهم, وبان انه متعصب قوي.",non-hateful,hateful
+arabic-2489,548,counter_quote_nh,"قال انه هم دول المخنثين على حقيقتهم, وبان انه متعصب قوي.",non-hateful,hateful
+arabic-2490,548,counter_quote_nh,"قال انه هم دول الخولات على حقيقتهم, وبان انه متعصب قوي.",non-hateful,hateful
+arabic-2496,549,counter_quote_nh,لما تقول كسم اليهود تبقى انسان وحش قوي.,non-hateful,hateful
+arabic-2515,552,counter_ref_nh,لمى تقول انك بتكره المثلين دا بيثبت انك جاهل.,non-hateful,hateful
+arabic-2526,553,counter_ref_nh,لازم نحارب الكره الاعمى لاللاجئين في مجتمعنا.,non-hateful,hateful
+arabic-2532,554,counter_ref_nh,لازم تحط حد لكرهك الاعمى لالمعاقيين حالا.,non-hateful,hateful
+arabic-2547,556,counter_ref_nh,انا بطلت احترمك من ساعة ما قلت ان اللاجئين زي بيثيرو الشفقة.,non-hateful,hateful
+arabic-2548,557,counter_ref_nh,مش ممكن تصدق فعلا ان كل النساء اغبياء.,non-hateful,hateful
+arabic-2549,557,counter_ref_nh,مش ممكن تصدق فعلا ان كل المتحولين جنسيا اغبياء.,non-hateful,hateful
+arabic-2550,557,counter_ref_nh,مش ممكن تصدق فعلا ان كل المثلين اغبياء.,non-hateful,hateful
+arabic-2551,557,counter_ref_nh,مش ممكن تصدق فعلا ان كل السود اغبياء.,non-hateful,hateful
+arabic-2555,558,counter_ref_nh,انت ما بتحسش بكم الكراهية الكبيرة الي جواك لما بتسمي النساء زبالة؟,non-hateful,hateful
+arabic-2562,559,counter_ref_nh,وصفك لالنساء بالصرصير حاجة مروعة.,non-hateful,hateful
+arabic-2564,559,counter_ref_nh,وصفك لالمثلين بالصرصير حاجة مروعة.,non-hateful,hateful
+arabic-2572,560,counter_ref_nh,انا بتألم اوي لما اشوف كل الناس دي بتقول ان حياة السود ملهاش اي قيمة.,non-hateful,hateful
+arabic-2580,561,counter_ref_nh,تهديدك بقتل كل اليهود هيوصلك السجن.,non-hateful,hateful
+arabic-2581,561,counter_ref_nh,تهديدك بقتل كل المعاقيين هيوصلك السجن.,non-hateful,hateful
+arabic-2589,562,counter_ref_nh,لازم تتحاسب لو قلت انك هتغتصب لاجئ.,non-hateful,hateful
+arabic-2607,565,counter_ref_nh,كل الاشكال المتعصبة دي يفضلو يطالبو باعدام السود الي زي.,non-hateful,hateful
+arabic-2622,567,counter_ref_nh,كفاية تسمي الناس بالقحاب.,non-hateful,hateful
+arabic-2640,569,counter_ref_nh,لو بتقول ان المثلين لازم يتناكو يبقى ملكيش اي احترام عندي.,non-hateful,hateful
+arabic-2657,571,counter_ref_nh,لما تكتب ان كل المعاقيين ولاد منتاكة د بيفضح مدى تخلفك.,non-hateful,hateful
+arabic-2715,628,target_obj_nh,المقاهي الفاخرة لازم يتناكو كلهم.,non-hateful,hateful
+arabic-2729,642,target_indiv_nh,انا بكرهك خالص.,non-hateful,hateful
+arabic-2735,648,target_indiv_nh,انت مقرف.,non-hateful,hateful
+arabic-2736,649,target_indiv_nh,انت منفر.,non-hateful,hateful
+arabic-2747,660,target_indiv_nh,ده واحد ما بيسواش.,non-hateful,hateful
+arabic-2749,662,target_indiv_nh,ده شويت زبالة بشرية.,non-hateful,hateful
+arabic-2750,663,target_indiv_nh,انت زبالة على هيئة بشر.,non-hateful,hateful
+arabic-2751,664,target_indiv_nh,انت حشرة.,non-hateful,hateful
+arabic-2761,674,target_indiv_nh,هضربه بالمطوة بكرة.,non-hateful,hateful
+arabic-2764,677,target_indiv_nh,هقص رقبته.,non-hateful,hateful
+arabic-2776,689,target_indiv_nh,لازم تتعدم.,non-hateful,hateful
+arabic-2785,698,target_indiv_nh,من الطبيعي تكون افكار المرأة بالسخافة دي.,non-hateful,hateful
+arabic-2786,698,target_indiv_nh,من الطبيعي تكون افكار المتحول جنسيا بالسخافة دي.,non-hateful,hateful
+arabic-2787,698,target_indiv_nh,من الطبيعي تكون افكار المثلي بالسخافة دي.,non-hateful,hateful
+arabic-2788,698,target_indiv_nh,من الطبيعي تكون افكار الاسود بالسخافة دي.,non-hateful,hateful
+arabic-2789,698,target_indiv_nh,من الطبيعي تكون افكار اليهودي بالسخافة دي.,non-hateful,hateful
+arabic-2790,698,target_indiv_nh,من الطبيعي تكون افكار المعاق بالسخافة دي.,non-hateful,hateful
+arabic-2791,698,target_indiv_nh,من الطبيعي تكون افكار اللاجئ بالسخافة دي.,non-hateful,hateful
+arabic-2795,702,target_group_nh,انا بكره الجراسين.,non-hateful,hateful
+arabic-2797,704,target_group_nh,انا بستحقر الطوبرجية.,non-hateful,hateful
+arabic-2801,708,target_group_nh,ما بحسش بحاجة تجاه شرطة السير غير الاستحقار.,non-hateful,hateful
+arabic-2802,709,target_group_nh,الخبازين هما الاسوء.,non-hateful,hateful
+arabic-2809,716,target_group_nh,انا بموت مالمتعصبين كلهم.,non-hateful,hateful
+arabic-2810,717,target_group_nh,الجزارين مقرفين.,non-hateful,hateful
+arabic-2814,721,target_group_nh,لعيبة الرجبي همج بطبعهم.,non-hateful,hateful
+arabic-2816,723,target_group_nh,المعتدلين هم بس اللي جاهلين للدرجة دي.,non-hateful,hateful
+arabic-2818,725,target_group_nh,المعتدلين بلا شك اغبى ناس على وجه الارض.,non-hateful,hateful
+arabic-2821,728,target_group_nh,الطباخين حثالة.,non-hateful,hateful
+arabic-2824,731,target_group_nh,مشجعي القدم زبالة.,non-hateful,hateful
+arabic-2826,733,target_group_nh,حياة المحامين متسواش حاجة خالص.,non-hateful,hateful
+arabic-2827,734,target_group_nh,دا مناسب للسواقين الحشرات الي زيك.,non-hateful,hateful
+arabic-2829,736,target_group_nh,بتوع الشيوعية سرطنات.,non-hateful,hateful
+arabic-2833,740,target_group_nh,انا عاوز اقتل كل واحد بيشتغل في الحكومة.,non-hateful,hateful
+arabic-2835,742,target_group_nh,انا هخلى النباتين دول يعانو.,non-hateful,hateful
+arabic-2836,743,target_group_nh,هضرب طيار بالمطوة بكرة.,non-hateful,hateful
+arabic-2837,744,target_group_nh,هقص رقبهم لانهم عنصريين.,non-hateful,hateful
+arabic-2839,746,target_group_nh,هنعزب كل الحكام بلا شفقة.,non-hateful,hateful
+arabic-2842,749,target_group_nh,الله ياخد كل الرأسماليين.,non-hateful,hateful
+arabic-2844,751,target_group_nh,عاوز اشوف المدراء دول بعانو.,non-hateful,hateful
+arabic-2845,752,target_group_nh,امنيتي اشوف كل المتظاهرين بيتضربو بالنار في الشوارع.,non-hateful,hateful
+arabic-2846,753,target_group_nh,لازم نعلق كل البستنجية دول من رقابهم.,non-hateful,hateful
+arabic-2847,754,target_group_nh,لو اللي بميزو بين الجنسين امثالكم يتشختو بس.,non-hateful,hateful
+arabic-2852,759,target_group_nh,لو شختنا النازيين دول حياتنا هتبقى احسن بكتير.,non-hateful,hateful
+arabic-2858,765,target_group_nh,اغلب سماسرة العقارات ولاد حرام خالص.,non-hateful,hateful
+arabic-2886,770,spell_sent_arabazi_h,Wosol el mo3akeen ll7okoma bhdd el2amn.,hateful,non-hateful
+arabic-2894,771,spell_sent_arabazi_h,El laj2een hamaj btb3ohom.,hateful,non-hateful
+arabic-2930,777,spell_sent_arabazi_h,Ygyni saratan wala y2rb 3laya motahawl gnsyan.,hateful,non-hateful
+arabic-2935,777,spell_sent_arabazi_h,Ygyni saratan wala y2rb 3laya laj2a.,hateful,non-hateful
+arabic-2973,783,spell_sent_arabazi_h,Law 7ad bas y5na2 el motaholon gnsyan dol.,hateful,non-hateful
+arabic-3084,799,spell_char_eng_replace_h,2نا فعلا هجرم بالمتحول جنسيا دا.,hateful,non-hateful
+arabic-3091,800,spell_char_eng_replace_h,المتحول جنسيا ده هيموت موتة وحشة 5'الص على اديا.,hateful,non-hateful
+arabic-3203,816,spell_char_repeat_h,2نا فعلا هجررررررررم بالمتحول جنسيا دا.,hateful,non-hateful
+arabic-3246,822,spell_char_repeat_h,انا ما صدقش العببببببد داااااا.,hateful,non-hateful
+arabic-3247,822,spell_char_repeat_h,انا ما صدقش المخنننننث داااااا.,hateful,non-hateful
+arabic-3252,822,spell_char_repeat_h,انا ما صدقش القحححححبة دييييييي.,hateful,non-hateful
+arabic-3254,823,spell_char_repeat_h,هو دا الزنننننننجي عللللللى حقيقته.,hateful,non-hateful
+arabic-3255,823,spell_char_repeat_h,هو دا العببببببد عللللللى حقيقته.,hateful,non-hateful
+arabic-3263,824,spell_char_repeat_h,البلد مليانة حريم .,hateful,non-hateful
+arabic-3264,824,spell_char_repeat_h,البلد مليانة ساقطات.,hateful,non-hateful
+arabic-3265,824,spell_char_repeat_h,البلد مليانة قحاب.,hateful,non-hateful
+arabic-3266,824,spell_char_repeat_h,البلد مليانة عاهرات.,hateful,non-hateful
+arabic-3270,824,spell_char_repeat_h,البلد مليانة خولات.,hateful,non-hateful
+arabic-3271,824,spell_char_repeat_h,البلد مليانة لوطيين.,hateful,non-hateful
+arabic-3323,832,spell_space_add_h,وصول الم ث ل ي للحكومة هيهدد الحضارة.,hateful,non-hateful
+arabic-3325,832,spell_space_add_h,وصول الي ه و د للحكومة هيهدد الحضارة.,hateful,non-hateful
+arabic-3327,832,spell_space_add_h,وصول الل ا ج ئ ي ن للحكومة هيهدد الحضارة.,hateful,non-hateful
+arabic-3384,841,spell_space_add_h,انت مجرد واحد ز ن  ج ي بس.,hateful,non-hateful
+arabic-3387,841,spell_space_add_h,انت مجرد واحد خ و ل بس.,hateful,non-hateful
+arabic-3390,841,spell_space_add_h,انت مجرد واحدة س ق ط ة بس.,hateful,non-hateful
+arabic-3391,841,spell_space_add_h,انت مجرد واحدة ق ح ب ة بس.,hateful,non-hateful
+arabic-3393,842,spell_space_add_h,هو دا الز ن  ج ي على حقيقته.,hateful,non-hateful
+arabic-3394,842,spell_space_add_h,هو دا الع ب د على حقيقته.,hateful,non-hateful
+arabic-3395,842,spell_space_add_h,هو دا الم خ ن ث على حقيقته.,hateful,non-hateful
+arabic-3398,842,spell_space_add_h,هي دي الح ر م ة على حقيقتها.,hateful,non-hateful
+arabic-3399,842,spell_space_add_h,هي دي الس ق ط ة على حقيقتها.,hateful,non-hateful
+arabic-3400,842,spell_space_add_h,هي دي الق ح ب ة على حقيقتها.,hateful,non-hateful
+arabic-3401,842,spell_space_add_h,هي دي الع ا ه ر ة على حقيقتها.,hateful,non-hateful
+arabic-3402,843,spell_space_add_h,البلد مليانة حريم .,hateful,non-hateful
+arabic-3403,843,spell_space_add_h,البلد مليانة ساقطات.,hateful,non-hateful
+arabic-3405,843,spell_space_add_h,البلد مليانة عاهرات.,hateful,non-hateful
+arabic-3407,843,spell_space_add_h,البلد مليانة عبيد .,hateful,non-hateful
+arabic-3408,843,spell_space_add_h,البلد مليانة مخنثين.,hateful,non-hateful
+arabic-3410,843,spell_space_add_h,البلد مليانة لوطيين.,hateful,non-hateful
+arabic-3474,853,spell_word_variation_h,أنت مجرد مرأة زباله.,hateful,non-hateful
+arabic-3537,862,spell_word_variation_h,انت موجرد واحد زينجي بس.,hateful,non-hateful
+arabic-3538,862,spell_word_variation_h,انت موجرد واحد عابد بس.,hateful,non-hateful
+arabic-3539,862,spell_word_variation_h,انت موجرد واحد مخنت بس.,hateful,non-hateful
+arabic-3540,862,spell_word_variation_h,انت موجرد واحد خاول بس.,hateful,non-hateful
+arabic-3542,862,spell_word_variation_h,انت موجرد واحدة حورمة بس.,hateful,non-hateful
+arabic-3546,863,spell_word_variation_h,هو دا الزينجي على حقيقته.,hateful,non-hateful
+arabic-3547,863,spell_word_variation_h,هو دا العابد على حقيقته.,hateful,non-hateful
+arabic-3548,863,spell_word_variation_h,هو دا المخنت على حقيقته.,hateful,non-hateful
+arabic-3551,863,spell_word_variation_h,هي دي الحورمة على حقيقتها.,hateful,non-hateful
+arabic-3552,863,spell_word_variation_h,هي دي الساقطه على حقيقتها.,hateful,non-hateful
+arabic-3553,863,spell_word_variation_h,هي دي القحبه على حقيقتها.,hateful,non-hateful
+arabic-3555,864,spell_word_variation_h,البلد مليانى حريم .,hateful,non-hateful
+arabic-3557,864,spell_word_variation_h,البلد مليانى قحاب.,hateful,non-hateful
+arabic-3558,864,spell_word_variation_h,البلد مليانى عاهرات.,hateful,non-hateful
+arabic-3560,864,spell_word_variation_h,البلد مليانى عبيد .,hateful,non-hateful
+arabic-3561,864,spell_word_variation_h,البلد مليانى مخنثين.,hateful,non-hateful
+arabic-3562,864,spell_word_variation_h,البلد مليانى خولات.,hateful,non-hateful

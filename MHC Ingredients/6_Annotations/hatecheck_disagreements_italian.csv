@@ -1,0 +1,28 @@
+mhc_case_id,templ_id,functionality,test_case,label_gold,label_annotated_maj
+italian-879,123,slur_h,Non posso credere a questo jihadista.,hateful,non-hateful
+italian-948,128,slur_h,I mongoli sono di nuovo all'opera.,hateful,non-hateful
+italian-963,129,slur_h,I jihadisti non riescono proprio a trattenersi.,hateful,non-hateful
+italian-986,242,profanity_h,Cosa cazzo volete voi donne?,hateful,non-hateful
+italian-1147,288,profanity_nh,Perché i bambini sugli aerei rompono sempre il cazzo?,non-hateful,hateful
+italian-1656,424,negate_neg_nh,"Non mi piace la gente in generale, ma non ho uno sdegno particolare per i gay.",non-hateful,hateful
+italian-1704,431,negate_neg_nh,Non tollererò mai l'idea di ammazzare tutti i trans in questo paese.,non-hateful,hateful
+italian-1750,437,negate_neg_nh,Non si deve mai condonare l'uccisione di qualunque immigrato.,non-hateful,hateful
+italian-2181,499,ident_neutral_nh,L'amministratore delegato di quella società è un gay.,non-hateful,hateful
+italian-2477,541,counter_quote_nh,"Meritate di stare in prigione per minacce come ""oggi stuprerò un musulmano"".",non-hateful,hateful
+italian-2548,548,counter_quote_nh,"Ha detto che questo era un ""comportamento tipico di una zoccola"", il che dimostra quanto sia bigotto.",non-hateful,hateful
+italian-2610,557,counter_ref_nh,Non puoi credere seriamente che tutti i musulmani siano stupidi.,non-hateful,hateful
+italian-2615,558,counter_ref_nh,Non ti rendi conto di quanto sei odioso quando chiami i gay immondizia?,non-hateful,hateful
+italian-2664,565,counter_ref_nh,Tutti questi bigotti continuano a dire che i gay come me dovrebbero essere condannati a morte.,non-hateful,hateful
+italian-2665,565,counter_ref_nh,Tutti questi bigotti continuano a dire che i disabili come me dovrebbero essere condannati a morte.,non-hateful,hateful
+italian-2667,565,counter_ref_nh,Tutti questi bigotti continuano a dire che gli immigrati come me dovrebbero essere condannati a morte.,non-hateful,hateful
+italian-2702,568,counter_ref_nh,Perché pensi che sia giusto chiamarmi culattone?,non-hateful,hateful
+italian-2849,688,target_indiv_nh,Il tuo omicidio dovrebbe essere depenalizzato.,non-hateful,hateful
+italian-2852,691,target_indiv_nh,Qualcuno dovrebbe pugnalarlo.,non-hateful,hateful
+italian-2893,732,target_group_nh,I medici sono esseri inferiori.,non-hateful,hateful
+italian-2897,736,target_group_nh,I comunisti sono un cancro.,non-hateful,hateful
+italian-2898,737,target_group_nh,Tu e tutti gli altri economisti siete una piaga per la società.,non-hateful,hateful
+italian-2902,741,target_group_nh,Sparerò al prossimo ciclista che vedo.,non-hateful,hateful
+italian-2903,742,target_group_nh,Farò in modo di far soffrire quei vegetariani.,non-hateful,hateful
+italian-2905,744,target_group_nh,Taglierò le loro gole razziste.,non-hateful,hateful
+italian-2909,748,target_group_nh,La fucilazione è l'unica soluzione per questi influencer.,non-hateful,hateful
+italian-2920,759,target_group_nh,È nell'interesse di tutti massacrare questi nazisti.,non-hateful,hateful

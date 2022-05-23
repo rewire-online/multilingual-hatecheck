@@ -1,0 +1,8 @@
+TARGET,[male_IDENT_S],[male_IDENT_P],[female_IDENT_S],[female_IDENT_P],[male_IDENT_S_char_del],[male_IDENT_P_char_del],[female_IDENT_S_char_del],[female_IDENT_P_char_del],[male_IDENT_S_space_add],[male_IDENT_P_space_add],[female_IDENT_S_space_add],[female_IDENT_P_space_add],[male_IDENT_S_leet],[male_IDENT_P_leet],[female_IDENT_S_leet],[female_IDENT_P_leet]
+women,-,-,donna,donne,-,-,dnna,dnne,-,-,d o n n a,d o n n e,-,-,d0nna,d0nne
+trans people,trans,trans,-,-,trns,trns,-,-,t r a n s,t r a n s,-,-,tr4ns,tr4ns,-,-
+gay people,gay,gay,-,-,gy,gy,-,-,g a y,g a y,-,-,g4y,g4y,-,-
+black people,-,-,persona di colore,persone di colore,-,-,persona di coore,persone di coore,-,-,p e r s o n a d i c o l o r e,p e r s o n e d i c o l o r e,-,-,persona di c0lore,persone di c0lore
+disabled people,disabile,disabili,-,-,disbile,disbili,-,-,d i s a b i l e,d i s a b i l i,-,-,d1sabile,d1sabili,-,-
+Muslims,musulmano,musulmani,-,-,musumano,musumani,-,-,m u s u l m a n o,m u s u l m a n i,-,-,musulm4no,musulm4ni,-,-
+immigrants,immigrato,immigrati,-,-,immgrato,immgrati,-,-,i m m i g r a t o,i m m i g r a t i,-,-,imm1grato,imm1grati,-,-
