@@ -1,9 +1,11 @@
 # Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models
 
 In this repo, you can find **Multilingual HateCheck** (MHC), a suite of functional tests for hate speech detection models in 10 different languages:
-Arabic, Dutch, French, German, Hindi, Italian, Mandarin, Polish, Portuguese, Spanish.
+Arabic, Dutch, French, German, Hindi, Italian, Mandarin, Polish, Portuguese and Spanish.
 
-For more details, please refer to our paper about MHC, published at the 2022 Workshop on Online Abuse and Harms (WOAH) at NAACL 2022.
+For more details, please refer to our paper about MHC, published at the 2022 Workshop on Online Abuse and Harms (WOAH) at NAACL 2022. If you are using MHC, please cite our work!
+
+If you are looking for the original English HateCheck, you can find the data [here](https://github.com/paul-rottger/hatecheck-data) and the paper [here](https://aclanthology.org/2021.acl-long.4/). 
 
 ## Repo Structure
 **MHC Final Cases** lists the final MHC test cases for each of the ten languages. These are the cases you want to be using to test your model!
